@@ -25,8 +25,4 @@ These problems will help to improve your problem-solving skills and prepare for 
 - String reversal
 - first non-repeating character
 
-## Goal
 
-- Practice DSA daily
-- Build strong problem-solving skills
-- Improve coding interview preparation
